@@ -25,8 +25,6 @@ The code takes historical data for 10 S&P500 assets and finds the optimal shape 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - The `GA` package for R: https://cran.r-project.org/web/packages/GA/index.html
